@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1783
     wikipedia: http://en.wikipedia.org/wiki/Justin_McCarthy_(1830%E2%80%931912)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21637#The-Dictator
 gutenberg_issued: '2007-05-28'
 gutenberg_type: Text
 identifiers:
